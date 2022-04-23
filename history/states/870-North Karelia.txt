@@ -1,0 +1,20 @@
+state={
+	id=870
+	name="STATE_870"
+
+	history = {
+		owner = FIN
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = FIN
+	}
+
+	provinces={
+		139 3030 3068 3185 6210 9061 9181 13109 13114 13115 
+	}
+	manpower=20475
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

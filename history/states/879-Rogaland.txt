@@ -1,0 +1,30 @@
+state={
+	id=879
+	name="STATE_879"
+
+	history = {
+		owner = NOR
+		buildings = {
+			infrastructure = 3
+
+			53 = {
+				naval_base = 1
+				coastal_bunker = 1
+			}
+
+		}
+
+		victory_points = {
+			53 1 
+		}
+		add_core_of = NOR
+	}
+
+	provinces={
+		53 65 137 3192 6176 
+	}
+	manpower=87364
+	state_category=town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
