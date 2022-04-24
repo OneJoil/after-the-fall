@@ -1,0 +1,22 @@
+state={
+	id=868
+	name="STATE_868"
+
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = GER
+	}
+
+	provinces={
+		6521 
+	}
+	manpower=6444757
+	state_category=megalopolis
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
