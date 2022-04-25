@@ -1,0 +1,23 @@
+state={
+	id=894
+	name="STATE_894"
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+		}
+
+		add_core_of = FRA
+	}
+
+	provinces={
+		3594 9607 9609 
+	}
+	manpower=546300
+	state_category=large_town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
