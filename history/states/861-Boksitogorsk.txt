@@ -1,20 +1,23 @@
+
 state={
 	id=861
 	name="STATE_861"
 
-	history = {
+	history={
 		owner = SOV
 		buildings = {
 			infrastructure = 1
+
 		}
 		add_core_of = SOV
+
 	}
 
 	provinces={
-		39 93 150 194 3035 9111 9153 9177 11048 11084 11093 11131 11154 
+		39 93 150 3035 9111 9153 9177 11084 11093 11131 11154 
 	}
 	manpower=34576
-	state_category=town
 	buildings_max_level_factor=1.000
+	state_category=town
 	local_supplies=0.000
 }
