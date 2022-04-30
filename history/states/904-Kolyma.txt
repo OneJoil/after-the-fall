@@ -1,0 +1,21 @@
+state={
+	id=904
+	name="STATE_904"
+
+	history = {
+		owner = SOV
+		buildings = {
+			infrastructure = 1
+		}
+
+		add_core_of = SOV
+	}
+
+	provinces={
+		1722 2853 2923 3184 6085 13059 13060 
+	}
+	manpower=304557
+	state_category=pastoral
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
