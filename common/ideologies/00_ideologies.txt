@@ -29,6 +29,141 @@ ideologies = {
 		can_be_boosted = no
 	}
 
+	authoritarian_democracy = {
+		types = {
+			authoritarian_democracy_subtype = {}
+
+
+		}
+		dynamic_faction_names = {}
+		color = { 130 130 130 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			hidden_modifier = {
+				civilian_intel_to_others = 20.0
+				army_intel_to_others = 10.0
+				navy_intel_to_others = 15.0
+				airforce_intel_to_others = 10.0
+			}
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	conservative_democracy = {
+		types = {
+			conservative_democracy_subtype = {}
+
+
+		}
+		dynamic_faction_names = {}
+		color = { 0 0 135 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			hidden_modifier = {
+				civilian_intel_to_others = 20.0
+				army_intel_to_others = 10.0
+				navy_intel_to_others = 20.0
+				airforce_intel_to_others = 10.0
+			}
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	liberal_democracy = {
+		types = {
+			liberal_democracy_subtype = {}
+
+
+		}
+		dynamic_faction_names = {}
+		color = { 78 97 163 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			hidden_modifier = {
+				civilian_intel_to_others = 20.0
+				army_intel_to_others = 10.0
+				navy_intel_to_others = 20.0
+				airforce_intel_to_others = 10.0
+			}
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	social_democracy = {
+		types = {
+			social_democracy_subtype = {}
+
+
+		}
+		dynamic_faction_names = {}
+		color = { 169 27 79 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			hidden_modifier = {
+				civilian_intel_to_others = 20.0
+				army_intel_to_others = 10.0
+				navy_intel_to_others = 20.0
+				airforce_intel_to_others = 10.0
+			}
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	communist = {
+		types = {
+			communist_subtype = {}
+
+			communist_stalinism_subtype = { can_be_randomly_selected = no }
+			communist_marxism_subtype = { can_be_randomly_selected = no }
+		}
+		dynamic_faction_names = {}
+		color = { 110 0 0 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			hidden_modifier = {
+				civilian_intel_to_others = 10.0
+				army_intel_to_others = 15.0
+				navy_intel_to_others = 15.0
+				airforce_intel_to_others = 15.0
+			}
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
 
 	communism = {
 		types = {
@@ -99,6 +234,34 @@ ideologies = {
 			centrism = {}
 		}
 
+		dynamic_faction_names = {}
+		color = { 75 75 75 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			hidden_modifier = {
+				civilian_intel_to_others = 15.0
+				army_intel_to_others = 15.0
+				navy_intel_to_others = 15.0
+				airforce_intel_to_others = 15.0
+			}
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+
+	despotism = {
+		types = {
+			despotism_subtype = {}
+
+			despotism_military_junta_subtype = { can_be_randomly_selected = no }
+			despotism_corporatocracy_subtype = { can_be_randomly_selected = no }
+		}
 		dynamic_faction_names = {}
 		color = { 75 75 75 }
 		rules = {

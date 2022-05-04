@@ -1,4 +1,4 @@
-﻿capital = 888
+﻿capital = 16
 
 if = {
 	limit = {

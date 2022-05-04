@@ -1,0 +1,15 @@
+characters = {
+	MEL_zinovy_zhadinov = {
+		name = "Zinovy Zhadinov" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Zinovy_Zhadinov
+			}
+		}
+		country_leader = {
+			ideology = communist_marxism_subtype
+			expire = "1999.1.1.1"
+			id = -1
+		}
+	}
+}
