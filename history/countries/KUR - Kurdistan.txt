@@ -117,9 +117,17 @@ set_politics = {
 }
 
 set_popularities = {
-	communist = 5
-	fascism = 30
-	despotism = 65
+	democratic = 0
+	authoritarian_democracy = 0
+	conservative_democracy = 0
+	liberal_democracy = 0
+	social_democracy = 0
+	national_socialism = 0
+	communism = 25
+	communist = 0
+	fascism = 0
+	neutrality = 0
+	despotism = 75
 }
 
 # Qazi Muhammad was leader of the short-lived Marxist uprising in Iranian Kurdistan
@@ -128,7 +136,7 @@ create_country_leader = {
 	desc = "POLITICS_QAZI_MUHAMMAD_DESC"
 	picture = GFX_portrait_Qazi_Muhammad
 	expire = "1999.1.1"
-	ideology = communist_subtype
+	ideology = communist_marxism_subtype
 	traits = {
 		#
 	}

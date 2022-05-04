@@ -8,7 +8,7 @@ characters = {
 		}
 		country_leader = {
 			ideology = despotism_subtype
-			expire = "1944.1.1.1"
+			expire = "1999.1.1.1"
 			id = -1
 		}
 	}
@@ -21,7 +21,7 @@ characters = {
 		}
 		country_leader = {
 			ideology = communist_subtype
-			expire = "1944.1.1.1"
+			expire = "1999.1.1.1"
 			id = -1
 		}
 	}

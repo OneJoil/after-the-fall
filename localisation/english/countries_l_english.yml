@@ -32,36 +32,36 @@
 
  SOV_communist: "Soviet Union"
  SOV_communist_DEF: "the Soviet Union"
- SOV_communist_ADJ: "Soviet"
 
  SOV_authoritarian_democracy: "Russian Federation"
  SOV_authoritarian_democracy_DEF: "the Russian Federation"
- SOV_authoritarian_democracy_ADJ: "Russian"
 
  SOV_conservative_democracy: "Russian Federation"
  SOV_conservative_democracy_DEF: "the Russian Federation"
- SOV_conservative_democracy_ADJ: "Russian"
 
  SOV_liberal_democracy: "Russian Federation"
  SOV_liberal_democracy_DEF: "the Russian Federation"
- SOV_liberal_democracy_ADJ: "Russian"
 
  SOV_social_democracy: "Russian Federation"
  SOV_social_democracy_DEF: "the Russian Federation"
- SOV_social_democracy_ADJ: "Russian"
 
  SOV_fascism: "Russian Empire"
  SOV_fascism_DEF: "the Russian Empire"
- SOV_fascism_ADJ: "Russian"
 
  SOV_national_socialism: "Russian Empire"
  SOV_national_socialism_DEF: "the Russian Empire"
- SOV_national_socialism_ADJ: "Russian"
 
  SOV_despotism: "Russian Republic"
  SOV_despotism_DEF: "the Russian Republic"
- SOV_despotism_ADJ: "Russian"
 
+ SOV_communist_ADJ: "Soviet"
+ SOV_authoritarian_democracy_ADJ: "Russian"
+ SOV_conservative_democracy_ADJ: "Russian"
+ SOV_liberal_democracy_ADJ: "Russian"
+ SOV_social_democracy_ADJ: "Russian"
+ SOV_fascism_ADJ: "Russian"
+ SOV_national_socialism_ADJ: "Russian"
+ SOV_despotism_ADJ: "Russian"
  SOV: "Russia"
  SOV_DEF: "Russia"
  SOV_ADJ: "Russian"
