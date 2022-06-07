@@ -22,7 +22,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=conservatism
+			ideology=conservative_democracy_subtype
 			expire="1965.1.1.1"
 			id=-1
 		}
@@ -36,7 +36,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=stalinism
+			ideology=communist_stalinism_subtype
 			traits={ exiled }
 			expire="1965.1.1.1"
 			id=-1
