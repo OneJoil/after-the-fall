@@ -15,13 +15,13 @@ characters={
 				}
 			}
 			country_leader={
-				ideology=oligarchism
+				ideology=despotism_corporatocracy_subtype
 				traits={ fascist_sympathies anti_communist }
 				expire="1965.1.1.1"
 				id=500
 			}
 			country_leader={
-				ideology=fascism_ideology
+				ideology=fascist_subtype
 				traits={ anti_communist }
 				expire="1965.1.1.1"
 				id=503
@@ -38,12 +38,12 @@ characters={
 				}
 			}
 			country_leader={
-				ideology=oligarchism
+				ideology=despotism_corporatocracy_subtype
 				expire="1965.1.1.1"
 				id=500
 			}
 			country_leader={
-				ideology=fascism_ideology
+				ideology=fascist_subtype
 				expire="1965.1.1.1"
 				id=500
 			}
@@ -58,7 +58,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=despotism
+			ideology=despotism_subtype
 			traits={  }
 			expire="1965.1.1.1"
 			id=-1
@@ -73,7 +73,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=stalinism
+			ideology=communist_stalinism_subtype
 			expire="1965.1.1.1"
 			id=-1
 		}
@@ -87,7 +87,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=socialism
+			ideology=social_democracy_subtype
 			expire="1965.1.1.1"
 			id=-1
 		}
@@ -113,7 +113,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=falangism
+			ideology=fascist_national_syndicalism_subtype
 			expire="1948.1.1.12"
 			id=-1
 		}

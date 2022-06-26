@@ -2898,7 +2898,7 @@
 2897;38;4;240;sea;false;ocean;0
 2898;38;8;236;sea;true;ocean;0
 2899;38;10;244;sea;true;ocean;0
-2900;38;12;232;land;true;plains;6
+2900;38;12;232;land;false;plains;6
 2901;38;16;248;sea;true;ocean;0
 2902;38;17;236;sea;false;ocean;0
 2903;38;18;244;sea;true;ocean;0

@@ -12,7 +12,7 @@ characters={
 				}
 			}
 			country_leader={
-				ideology=conservatism
+				ideology=conservative_democracy_subtype
 				traits={ indecisive }
 				expire="1965.1.1.1"
 				id=-1
@@ -29,7 +29,7 @@ characters={
 				}
 			}
 			country_leader={
-				ideology=conservatism
+				ideology=conservative_democracy_subtype
 				expire="1965.1.1.1"
 				id=-1
 			}
@@ -48,7 +48,7 @@ characters={
 				}
 			}
 			country_leader={
-				ideology=stalinism
+				ideology=communist_stalinism_subtype
 				traits={ veteran_communist }
 				expire="1965.1.1.1"
 				id=-1
@@ -65,7 +65,7 @@ characters={
 				}
 			}
 			country_leader={
-				ideology=stalinism
+				ideology=communist_stalinism_subtype
 				expire="1965.1.1.1"
 				id=-1
 			}
@@ -80,7 +80,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=centrism
+			ideology=despotism_subtype
 			expire="1965.1.1.1"
 			id=1100
 		}
@@ -123,7 +123,7 @@ characters={
 		}
 
 		country_leader={
-			ideology=falangism
+			ideology=fascist_national_syndicalism_subtype
 			traits={ sins_of_the_father }
 			expire="1965.1.1.1"
 			id=-1
@@ -138,7 +138,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=despotism
+			ideology=despotism_national_catholicism_subtype
 			traits={ jefe }
 			expire="1965.1.1.1"
 			id=-1
@@ -591,7 +591,7 @@ characters={
 			}
 	
 			country_leader={
-				ideology=fascism_ideology
+				ideology=fascist_subtype
 				expire="1965.1.1.1"
 				id=-1
 			}

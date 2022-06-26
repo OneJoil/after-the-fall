@@ -7,7 +7,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology=despotism
+			ideology=despotism_absolute_monarchy_subtype
 			traits = { the_last_romanov_maybe }
 			expire="1965.1.1.1"
 			id=-1
@@ -22,7 +22,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology=despotism
+			ideology=despotism_military_junta_subtype
 			traits = { patriot_king }
 			expire="1965.1.1.1"
 			id=-1
@@ -37,7 +37,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology=despotism
+			ideology=despotism_aristocratic_conservatism_subtype
 			expire="1965.1.1.1"
 			id=-1
 			traits = { royal_legitimist }
@@ -52,7 +52,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology=despotism
+			ideology=despotism_papacy_subtype
 			expire="1965.1.1.1"
 			id=-1
 		}
@@ -80,7 +80,7 @@ characters = {
 			legacy_id=-1
 		}
 		country_leader = {
-			ideology=oligarchism
+			ideology=despotism_corporatocracy_subtype
 			traits = { polish_legionary }
 		}
 	}
@@ -107,7 +107,7 @@ characters = {
 			legacy_id=-1
 		}
 		country_leader = {
-			ideology=oligarchism
+			ideology=despotism_corporatocracy_subtype
 			traits = { polish_legionary }
 			expire="1965.1.1.1"
 			id=-1
@@ -136,7 +136,7 @@ characters = {
 			legacy_id=-1
 		}
 		country_leader = {
-			ideology=oligarchism
+			ideology=despotism_corporatocracy_subtype
 			traits = { patriotic_guerilla }
 			expire="1965.1.1.1"
 			id=-1
@@ -196,7 +196,7 @@ characters = {
 		}
 		
 		country_leader = {
-			ideology=oligarchism
+			ideology=despotism_corporatocracy_subtype
 			expire="1965.1.1.1"
 			id=-1
 		}
@@ -250,7 +250,7 @@ characters = {
 		}
 		gender = female 
 		country_leader = {
-			ideology=marxism
+			ideology=communist_subtype
 			traits = { leftist_independent }
 			expire="1965.1.1.1"
 			id=-1
@@ -265,7 +265,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology=leninism
+			ideology=communist_subtype
 			traits = { soviet_thaw }
 			expire="1965.1.1.1"
 			id=-1
@@ -280,7 +280,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology=liberalism
+			ideology=liberal_democracy_subtype
 			traits = { democratic_restorationist }
 			expire="1965.1.1.1"
 			id=-1
@@ -295,7 +295,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology=socialism
+			ideology=social_democracy_subtype
 			traits = { morges_champion }
 			expire="1965.1.1.1"
 			id=-1
@@ -310,7 +310,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology=socialism
+			ideology=social_democracy_progressivism_subtype
 			traits = { polish_peasant_champion }
 			expire="1965.1.1.1"
 			id=-1
@@ -328,7 +328,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology=gen_nazism
+			ideology=national_socialism_subtype
 			expire="1965.1.1.1"
 			traits = { POL_cossack_king }
 			id=-1
@@ -396,7 +396,7 @@ characters = {
 		}
 		
 		country_leader = {
-			ideology=fascism_ideology
+			ideology=fascist_subtype
 			expire="1965.1.1.1"
 			id=-1
 			traits = { father_of_polish_nationalism }
@@ -411,7 +411,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology=falangism
+			ideology=fascist_national_syndicalism_subtype
 			expire="1965.1.1.1"
 			id=-1
 			traits = { unruly_falangist }
@@ -478,7 +478,7 @@ characters = {
 			skill = 1
 		}
 		country_leader = {
-			ideology=despotism
+			ideology=despotism_subtype
 			traits = { he_who_bears_the_throne }
 			expire="1966.1.1.1"
 		}

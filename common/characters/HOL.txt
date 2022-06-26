@@ -7,7 +7,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=conservatism
+			ideology=conservative_democracy_subtype
 			traits={ strict_austerity_adherent }
 			expire="1965.1.1.1"
 			id=-1
@@ -21,7 +21,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=fascism_ideology
+			ideology=fascist_subtype
 			traits={ leider }
 			expire="1965.1.1.1"
 			id=-1
@@ -35,7 +35,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=leninism
+			ideology=communist_subtype
 			traits={ veteran_communist }
 			expire="1965.1.1.1"
 			id=-1
@@ -127,7 +127,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=centrism
+			ideology=despotism_subtype
 			expire="1965.1.1.1"
 			id=-1
 		}

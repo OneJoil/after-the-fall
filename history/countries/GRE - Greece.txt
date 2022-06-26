@@ -296,16 +296,17 @@ set_convoys = 10
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = despotism
 	last_election = "1935.6.9"
 	election_frequency = 7
 	elections_allowed = yes # none after offset 1
 }
 set_popularities = {
-	democratic = 43
-	fascism = 2
-	communism = 17
-	neutrality = 38
+	conservative_democracy = 23
+	liberal_democracy = 20
+	national_socialism = 2
+	communist = 17
+	despotism = 38
 }
 
 set_stability = 0.72
