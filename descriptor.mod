@@ -7,4 +7,4 @@ tags={
 	"National Focuses"
 }
 name="After the Fall"
-supported_version="1.11.10"
+supported_version="1.11.12"
